@@ -5,7 +5,7 @@
 
 - 📫 How to reach us **https://linktr.ee/sleapingroaches**
 
-- 📁 Access our roach model [here] (https://drive.google.com/drive/folders/1VjBJ2zHQLsTP3-N-PjJTKD2QCGQ2Kgxm?usp=sharing)
+- 📁 Access our roach model [here](https://drive.google.com/drive/folders/1VjBJ2zHQLsTP3-N-PjJTKD2QCGQ2Kgxm?usp=sharing)
 
 <p align="left">
 </p>
